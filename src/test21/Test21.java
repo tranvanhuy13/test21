@@ -7,6 +7,7 @@ public class Test21 {
     
     public static void main(String[] args) {
         System.out.println("kkk132");
+        System.out.println("hello");
     }
     
 }
